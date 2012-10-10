@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="author" content="PaulJ"/>
+<link rel="shortcut icon" href="http://senna.sjsu.edu/swile/PaulJ/final/shield.ico" type="image/x-icon" />
+<title>Events</title>
+<link href="finalfeature.css" type="text/css" rel="stylesheet">
+</head>
+<body id="events">	
+	<div class="wrapper">
+	<!--#include virtual="headerfeature.html"-->
+			
+	 <div class="leftsidebar">
+	 	<h3>Upcoming Group Rides</h3>
+	 		<ul>
+	 			<li>Norfolk Highlands 4-8pm</li>
+	 			<li>Ghent 1-4pm</li>
+	 			<li>Shore Drive 7-10am</li>
+	 		</ul>
+	 		<p><u>Please meet at the club house <b>15 minutes</b> before the ride is to begin</u></p>
+	 		<p><b>Helmets are mandatory!</b></p>
+	 	<h3>Upcoming Races</h3>
+	 	<ul>
+	 		<li>Virginia Beach 300 9/1</li>
+	 		<li>Tour of Virginia 10/3</li>
+	 		<li>DC 500 12/3</li>
+	 	</ul>
+	 	<p><b>Registrations must be submitted at least 3 weeks before the race. Don't be late!</b></p>
+	 </div> 
+	 <div class="rightsidebar">
+	 <h2>Maps</h2>
+	 <p>Download the maps for this months rides</p>
+	 <img width="175" alt="maps" src="map1.jpg" />
+	 <a href="#">Norfolk Highlands</a>
+	 <br>
+	 <br>
+	 <img width="175" alt="map" src="map2.jpg" />
+	 <a href="#">Ghent</a>
+			
+	</div>
+	<div class="middle">
+	<h2>Social Night</h2>
+	<img width="150" src="trash.jpg" alt="trash pickup logo" />
+	<p>Once a month we get together for a non-cycling event. It's another way to build community and friendships. This month is our annual trash pick up day. We will be serving the community by cleaning two miles of route 58 (one of our favorite bike routes). Hopefully all can attend!</p>
+	<br>
+	<br>
+	<p>Last month we got together to watch the 2008 Tour de France. For those who missed it, here is the finish:</p>
+		<object type="application/x-shockwave-flash" data="http://www.youtube.com/v/pSy-RNxsXyE&amps;feature" width="560" height="315"> <param name="movie" value="http://www.youtube.com/v/pSy-RNxsXyE&amps;feature"/> </object>
+	<div class="clear"></div>
+	</div>
+	<!--#include virtual="footerfeature.html"-->
+</div>
+</body>
+</html>
